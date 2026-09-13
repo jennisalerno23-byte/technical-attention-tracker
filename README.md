@@ -62,8 +62,8 @@ The history view allows users to search and filter registered technical activiti
 
 ![History](images/history.png)
 
-### Pending Follow-up Detail
+### Conditional Follow-up Fields
 
-Detailed records include the final status, pending description, responsible party, estimated follow-up date, and observations when additional action is required.
+When an attention requires additional follow-up, the form dynamically displays fields for pending details, responsible party, estimated date, and observations.
 
-![Pending Follow-up Detail](images/pending-attention-detail.png)
+![Conditional Follow-up Fields](images/pending-attention-detail.png)
