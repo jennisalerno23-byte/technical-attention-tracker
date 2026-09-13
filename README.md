@@ -18,3 +18,20 @@ The solution records incident references, service times, actions performed, fina
 - Display KPIs, recent updates, upcoming follow-ups, and registered hours in a dashboard.
 - Search and filter historical records.
 - Send automatic email notifications to the ROC through Power Automate.
+
+## Architecture
+
+The solution follows a simple Power Platform workflow:
+
+**Power Apps → Microsoft Lists → Power Automate → ROC Email Notification**
+
+- **Power Apps** provides the user interface for registering, reviewing, and consulting technical activities.
+- **Microsoft Lists** stores the attention records and follow-up information.
+- **Power Automate** sends automatic notifications to the ROC when a new record is created.
+
+## Technologies
+
+- Microsoft Power Apps
+- Microsoft Lists
+- Microsoft Power Automate
+- Microsoft 365
