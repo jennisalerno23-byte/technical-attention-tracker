@@ -29,6 +29,13 @@ The solution follows a simple Power Platform workflow:
 - **Microsoft Lists** stores the attention records and follow-up information.
 - **Power Automate** sends automatic notifications to the ROC when a new record is created.
 
+## Technologies
+
+- Microsoft Power Apps
+- Microsoft Lists
+- Microsoft Power Automate
+- Microsoft 365
+
 ## Screenshots
 
 ### Dashboard
@@ -36,9 +43,15 @@ The solution follows a simple Power Platform workflow:
 The dashboard summarizes incident activity, pending follow-ups, total registered time, recent updates, upcoming follow-ups, and daily registered hours.
 
 ![Dashboard](images/dashboard.png)
-## Technologies
 
-- Microsoft Power Apps
-- Microsoft Lists
-- Microsoft Power Automate
-- Microsoft 365
+### Registration Form
+
+The registration form captures incident details, service dates and times, technical cause, actions performed, final status, observations, and follow-up information when required.
+
+![Registration Form](images/registration-form.png)
+
+### Registration Preview
+
+Before saving, the user can review the complete attention record and either confirm the registration or return to correct the information.
+
+![Registration Preview](images/registration-preview.png)
