@@ -73,3 +73,9 @@ When an attention requires additional follow-up, the form dynamically displays f
 After a new attention record is created, Power Automate sends an automatic notification to the ROC with the main service details and the engineer account that registered the activity.
 
 ![ROC Email Notification](images/roc-email-notification.png)
+
+## Future Improvements
+
+- Automatically retrieve ticket information from the ITSM platform using the incident number.
+- Populate contextual information such as customer and opportunity data when available.
+- Extend reporting capabilities if the solution is adopted for broader operational use.
