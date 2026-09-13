@@ -1,6 +1,6 @@
 # Technical Attention Tracker
 
-Power Apps solution for registering technical support activities, tracking pending follow-ups, and notifying the ROC through Power Automate.
+Power Apps solution for registering technical support activities, tracking pending follow-ups, and notifying the Remote Operations Center (ROC) through Power Automate.
 
 ## Overview
 
