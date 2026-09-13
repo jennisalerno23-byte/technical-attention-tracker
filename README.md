@@ -55,3 +55,15 @@ The registration form captures incident details, service dates and times, techni
 Before saving, the user can review the complete attention record and either confirm the registration or return to correct the information.
 
 ![Registration Preview](images/registration-preview.png)
+
+### History
+
+The history view allows users to search and filter registered technical activities by incident number, status, and date range.
+
+![History](images/history.png)
+
+### Pending Follow-up Detail
+
+Detailed records include the final status, pending description, responsible party, estimated follow-up date, and observations when additional action is required.
+
+![Pending Follow-up Detail](images/pending-attention-detail.png)
