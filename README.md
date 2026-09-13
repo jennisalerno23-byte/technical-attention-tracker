@@ -67,3 +67,9 @@ The history view allows users to search and filter registered technical activiti
 When an attention requires additional follow-up, the form dynamically displays fields for pending details, responsible party, estimated date, and observations.
 
 ![Conditional Follow-up Fields](images/pending-attention-detail.png)
+
+### ROC Email Notification
+
+After a new attention record is created, Power Automate sends an automatic notification to the ROC with the main service details and the engineer account that registered the activity.
+
+![ROC Email Notification](images/roc-email-notification.png)
